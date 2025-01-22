@@ -5,7 +5,7 @@ Este paquete proporciona ima forma siomple de obtner saludos.
 ## Instalacion
 Ejecuta:
 ```bash
-go get -u github.com/anggar85/grettings
+go get -u github.com/anggar85/greetings
 ```
 
 ## Uso
@@ -16,7 +16,7 @@ package main
 
 import (
     "fmt"
-    "github.com/anggar85/grettings"
+    "github.com/anggar85/greetings"
 )
 
 func main(){
